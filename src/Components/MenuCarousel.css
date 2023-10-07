@@ -1,0 +1,22 @@
+.menu-carousel {
+    margin: auto;
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-card {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.menu-card img {
+    aspect-ratio: auto;
+}
+
+.shoppingList {
+    width: 300px;
+    align-content: center;
+    justify-content: center;
+}
